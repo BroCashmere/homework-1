@@ -3,7 +3,7 @@
     background: #777;
     width: 960px;
     font-size: 18px;
-    
+    color: #777;
     text-align: center;
 }
 
@@ -82,6 +82,7 @@
 
 
 .article-header {
+    flex: 1;
     background: white;
     text-align: center;
     margin-top: 40px;
@@ -115,5 +116,3 @@
     color:#777;
     background: #ebebeb;
 }
-
-* { border: 1px solid red; }
